@@ -1,8 +1,6 @@
 # weekly4-retake
 
-You must push BEFORE 5:35pm or your answers will not be graded. Once you finish, do not leave the property. You will be interviewed about your questions at 2:45pm.
-
-DON'T FORGET TO USE THE assessment_handout.txt FILE.
+You must push BEFORE 9:00am or your answers will not be graded.
 
 Do NOT use any notes or previous projects on this test. Each individual question file has the same questions as the README.
 
